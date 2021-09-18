@@ -1,16 +1,27 @@
-### Hi there 👋
+## Olá! meu nome é Willian, mas pode me chamar de Will, prazer em conhecê-lo(a)!
 
-<!--
-**WillianX47/WillianX47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Procurando um primeiro emprego na área de dev
+- 🌱 Aprendendo dev java fullstack junior (web)
+- 😄 Pronomes: ( ele / dele )
+- ⚡ Fato engraçado: a primeira vez que eu mostrei meu nome no console, meus olhos brilharam!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+  <a href="https://github.com/WillianX47">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianX47&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianX47&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  <div style="display: inline_block"> <br>
+  <img align="center" alt="Will-Java"height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Will-Python"height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Will-cplusplus"height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Will-html5"height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Will-css3"height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Will-javascript"height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Will-TS"height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+</div>
+  
+<div> 
+  <br>
+  <a href = "mailto:willianx47@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/souzawill/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
