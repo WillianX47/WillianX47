@@ -1,7 +1,7 @@
-## Olá! meu nome é Willian, mas pode me chamar de Will, prazer em conhecê-lo(a)!
+## Olá! meu nome é Willian, mas pode me chamar de Will, bem vindo(a) ao meu perfil!
 
 - 🔭 Procurando um primeiro emprego na área de dev
-- 🌱 Aprendendo dev java fullstack junior (web)
+- 📚 Aprendendo dev java fullstack junior (web)
 - 😄 Pronomes: ( ele / dele )
 - ⚡ Fato engraçado: a primeira vez que eu mostrei meu nome no console, meus olhos brilharam!
 
