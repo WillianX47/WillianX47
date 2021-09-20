@@ -3,7 +3,7 @@
 - 🔭 Procurando um primeiro emprego na área de dev
 - 📚 Aprendendo dev java fullstack junior (web)
 - 😄 Pronomes: ( ele / dele )
-- ⚡ Fato engraçado: a primeira vez que eu mostrei meu nome no console, meus olhos brilharam!
+- ⚡ Fato sobre mim: enquanto estou fazendo algo (jogando, assistindo), fico pensando em como aquilo foi codado
 
  <div>
   <a href="https://github.com/WillianX47">
