@@ -7,8 +7,8 @@
 
  <div>
   <a href="https://github.com/WillianX47">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WillianX47&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianX47&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WillianX47&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianX47&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div style="display: inline_block"> <br>
   <img align="center" alt="Will-Java"height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
