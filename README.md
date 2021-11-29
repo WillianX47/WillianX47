@@ -25,5 +25,9 @@
   <a href = "mailto:willianx47@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/souzawill/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-![Snake animation](https://github.com/WillianX47/WillianX47/blob/output/github-contribution-grid-snake.svg)
+   <br/>
+<details>
+  <summary><b>⚡ Atividades recentes no Github:</b></summary>
+   <a href="https://github.com/WillianX47"><img alt="WillianX47" src="https://activity-graph.herokuapp.com/graph?username=WillianX47&custom_title=WillianX47's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+</details>
