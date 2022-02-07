@@ -1,6 +1,6 @@
 ## Olá! meu nome é Willian, mas pode me chamar de Will, bem vindo(a) ao meu perfil!
 
-- 🔭 Procurando um primeiro emprego na área de dev
+- 🔭 Trabalhando como desenvolvedor fullstack na Tech Solutio
 - 📚 Estudando: React | NextJS | TailwindCSS | Firebase
 - 😄 Pronomes: ( ele / dele )
 - ⚡ Fato sobre mim: enquanto estou fazendo algo (jogando, assistindo), fico pensando em como aquilo foi codado
