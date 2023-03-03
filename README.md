@@ -2,7 +2,6 @@
 
 - 🔭 Trabalhando como desenvolvedor fullstack na Tech Solutio
 - 📚 Estudando: Devops
-- ⚡ Fato sobre mim: enquanto estou fazendo algo (jogando, assistindo), fico pensando em como aquilo foi codado
 
  <div>
   <a href="https://github.com/WillianX47">
