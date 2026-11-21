@@ -1,6 +1,5 @@
 ## Olá! meu nome é Willian, mas pode me chamar de Will, bem vindo(a) ao meu perfil!
 
-- 🔭 Trabalhando como desenvolvedor fullstack na Tech Solutio
 - 📚 Estudando: Devops
 
  <div>
